@@ -3,7 +3,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	///freopen("in.txt", "r", stdin); freopen("out.txt", "w", stdout);
+	//freopen("in.txt", "r", stdin); freopen("out.txt", "w", stdout);
 
 	unsigned int n, x;
 	while(cin>>n && n){
